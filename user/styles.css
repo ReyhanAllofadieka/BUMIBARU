@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'CustomFont';
+  src: url('fonts/Poppins-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Contoh penggunaan font */
+body {
+  font-family: 'CustomFont', sans-serif;
+}

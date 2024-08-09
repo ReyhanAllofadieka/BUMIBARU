@@ -1,0 +1,63 @@
+.section1 {
+  background-image: url("../img/bgterbaru.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top: 7rem;
+  padding-bottom: 3rem;
+  padding-left: 6rem;
+  padding-right: 6rem;
+  color: white;
+}
+
+.section1 .section1-card{
+  background-color: rgba(19, 18, 18, 0.851);
+    backdrop-filter: blur(10px);
+    padding: 30px;
+    border-radius: 10px;
+}
+.section1 img {
+  width: 7rem;
+  object-fit: contain;
+}
+
+.section2 {
+
+  padding: 3rem;
+}
+
+.section2 img {
+
+  width: 6rem;
+  object-fit: cover;
+  border-radius: 100%;
+
+}
+
+.section2 .admin {
+  backdrop-filter: blur(20px);
+  background-color: rgba(4, 4, 4, 0.169);
+  padding: 2rem;
+  border-radius: 10px;
+}
+
+.section3 {
+  height: 90vh;
+  padding: 5rem;
+  background-color: rgba(24, 40, 31, 0.819);
+}
+
+.section3 h4{
+  font-family: "Playwrite DE Grund", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  color: white;
+}
+.section3 h1{
+  font-family: "Playwrite DE Grund", cursive;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: italic;
+  color: white;
+}
